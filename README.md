@@ -1,0 +1,1 @@
+Repository made to save the exercises and projects done while training in Zero To Mastery Course in Python
